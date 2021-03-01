@@ -1,6 +1,6 @@
 import discord
 import random
-
+JEPPA
 client = discord.Client()
 token = "NTYyNzE0MzgyMDgxOTgyNTA0.XKOymw.Fv8n-N82TJYXm6XjBRSkTzkrUTs"
 
@@ -30,4 +30,4 @@ async def on_message(message):
                 await message.channel.send(koleno)
                 #await message.channel.send(x)
 
-client.run(token)
+client.run(BRUH)
